@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_tech"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
+    android:background="@color/back"
+    tools:context="com.example.technology.TechActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:gravity="center"
+        android:background="@color/seven"
+        android:id="@+id/webid"
+        android:layout_marginBottom="8dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Web"
+            android:textSize="30sp"
+            android:id="@+id/webtext"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="int"
+            android:id="@+id/intid"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:gravity="center"
+        android:paddingTop="16dp"
+        android:background="@color/eight"
+        android:id="@+id/mobileid"
+        android:layout_marginBottom="8dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mobile"
+            android:textSize="30sp"
+            android:id="@+id/mobiletext"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:gravity="center"
+        android:paddingTop="16dp"
+        android:background="@color/nine"
+        android:id="@+id/databaseid"
+        android:layout_marginBottom="8dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Database"
+            android:textSize="30sp"
+            android:id="@+id/databasetext"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:gravity="center"
+        android:paddingTop="16dp"
+        android:background="@color/ten"
+        android:id="@+id/softid">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Software Testing"
+            android:textSize="30sp"
+            android:id="@+id/softtext"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:gravity="center"
+        android:paddingTop="16dp"
+        android:background="@color/eleven"
+        android:id="@+id/coreid"
+        android:layout_marginTop="8dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Core &amp; Frameworks"
+            android:textSize="30sp"
+            android:id="@+id/coretext"/>
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
