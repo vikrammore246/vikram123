@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">TechnoScreen</string>
+    <string name="app_name">{Codeo};</string>
+    <string name="whoWeAre">Who We Are</string>
+    <string name="aboutFirst">Codekul Institute is recognised as the world\'s leading organization to offer C/C++ Certification, Java Certification,Android Certification ,iOS certification program. One of primary goal of our institute is to set the standard of skill as well as provide development opportunities for individuals who wish to pursue a career in corporate world.  Codekul brings together a committed IT professionals ,programming specialist, programming enthusiasts,education establishments, training organisations,assessment excellence and popularization of programming in all languages. We are supporting non­profit organization who’s primary activity resolves around supporting initiative that promote the ideas of building a modern , educated,excellence and popularization of programming languages and digital society.  One of the primary goals of our institute is to set the standard of skill as well as provide development opportunities for individuals who wish to pursue career in any programming languages.</string>
+    <string name="whatWeDo">What We Do</string>
+    <string name="aboutTwo">Our Institute has defined global certification path for any programming languages. One of the best role of our institute is to help us to programmers from all over the world to expand their programming and help them gain recognition for their programming skill.</string>
+    <string name="headOne">Passionate and experienced IT professionals.</string>
+    <string name="headTwo">Leveraging the technology with all its fullness for every domain with power of an app.</string>
 </resources>
